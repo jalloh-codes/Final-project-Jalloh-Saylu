@@ -1,0 +1,16 @@
+{
+"companyName": "CST Final",
+"productName": "Final Project",
+"productVersion": "0.1",
+"dataUrl": "Runner-Game-Jalloh-Saylu.data.unityweb",
+"wasmCodeUrl": "Runner-Game-Jalloh-Saylu.wasm.code.unityweb",
+"wasmFrameworkUrl": "Runner-Game-Jalloh-Saylu.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.3f1"
+}
